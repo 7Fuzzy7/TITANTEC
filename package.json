@@ -1,0 +1,15 @@
+{
+  "name": "titantec-webhook",
+  "version": "1.0.0",
+  "description": "Webhook TITANTEC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
